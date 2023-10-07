@@ -240,6 +240,7 @@ nav .btn1{
     font-family: lato;
     color: rgb(24,32,74);
 }
+
 .rider{
     font-size: larger;
     font-weight: 900;
@@ -394,6 +395,19 @@ nav .btn1{
 }
 .content1{
     flex-direction: column;
+}
+    .content1 img {
+    width: 69vw;
+    height: 26vh;
+    padding-left: 6vw;
+    padding-top: 0;
+}
+.content2 img {
+    width: 30vw;
+    height: 17vh;
+    padding-left: 3vw;
+    padding-top: 0;
+    padding-right: 5vw;
 }
 .rider{
     font-size: small;
